@@ -1,2 +1,3 @@
-# basic-chatbot
-A basic rule based chatbot made using python 
+# Basic Chatbot
+A simple rule-based chatbot created using Python.
+
